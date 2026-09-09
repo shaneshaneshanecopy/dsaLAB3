@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * 
+ * shaneshanecopy
  * Group #8
  * Authors:(Leader)
  * (Member1)
